@@ -1,0 +1,8 @@
+
+=========={ Kriger's hack tool }==========
+1. Get HTML without payload
+2. Get HTML with payload
+3. Get number of columns in SQL database
+4. Check for columns containing text
+5. Check for robots.txt
+=========={  Press 6 to exit   }==========
